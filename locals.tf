@@ -3,7 +3,7 @@ locals {
   mod_tags = merge( 
     var.base_tags, 
     { 
-      manager = "Oliver Walsh (SecMod v1.0.3)" 
+      manager = "Susan Smiler (SecMod v1.0.4)" 
     }
   )
 
